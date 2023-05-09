@@ -8,19 +8,11 @@
 ## Welcome!
 
 
-- Hi there! I'm kam im new to things but im always here to learn.
+- Hi there! I'm skid im new to things but im always here to learn.
 
 - I'm currently learning C#, C++, HTML, and Python
 
 - I am very kind, and supportive
 
-## :trophy: My Github Stats:
 
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Fortmeme&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Fortmeme&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortmeme&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortmeme&hide=php&theme=tokyonight" />
-</a>
-</div>
+
