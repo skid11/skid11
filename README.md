@@ -9,8 +9,7 @@
 - Hi there! I'm kam im new to things but im always here to learn.
 
 - I'm currently learning C#, C++, HTML, and Python
-
-- Discord User: kam#5046
+- 
 - ![](https://komarev.com/ghpvc/?username=skid11)
 
 
