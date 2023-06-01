@@ -6,7 +6,7 @@
 ## Welcome!
 
 
-- Hi there! I'm kam im new to things but im always here to learn.
+- Hi there! I'm new to things but im always here to learn.
 
 - I'm currently learning C#, C++, HTML, and Python
 - 
