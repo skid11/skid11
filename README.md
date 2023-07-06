@@ -6,7 +6,7 @@
 ## Welcome!
 
 
-- Hi there! I'm new to things but im always here to learn.
+- Hi there! Check out my repositories.
 
 - I'm currently learning C#, C++, HTML, and Python
 - 
