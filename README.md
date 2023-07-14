@@ -1,16 +1,20 @@
-![HTML](https://img.shields.io/badge/html-%23121011.svg?style=for-the-badge&logo=HTML&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23121011.svg?style=for-the-badge&logo=Python&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+## 👋Welcome
 
 
-## Welcome!
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-3/1124999209469345912.png"></img>
 
+![](https://komarev.com/ghpvc/?username=skid11)
+</div>
 
-- Hi there! Check out my repositories.
+## 🧰Languages I know
+* C#
+* C++
+* Python
+* HTML
 
-- I'm currently learning C#, C++, HTML, and Python
-- 
-- ![](https://komarev.com/ghpvc/?username=skid11)
-
+## 📝Long term goals
+* Get a job as a backend software engineer
 
 
